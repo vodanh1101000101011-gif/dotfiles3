@@ -1,0 +1,9 @@
+.zsh_history
+.bash_history
+.gnupg/
+.cache/
+.steam/
+.pulse-cookie
+nohup.out
+*.deb
+*.zwc
